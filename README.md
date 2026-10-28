@@ -127,5 +127,5 @@ graph TD
 Desenvolvido por **Maycon Douglas**.
 
 - **GitHub**: [@maycondgl](https://github.com/maycondgl)
-- **LinkedIn**: [linkedin.com/in/maycon-douglas-leite](https://www.linkedin.com/in/maycon-douglas-leite)
+- **LinkedIn**: [linkedin.com/in/maycon-douglas-leite](https://www.linkedin.com/in/maycondgl)
 - **E-mail**: [maycon.dsl@hotmail.com](mailto:maycon.dsl@hotmail.com)
