@@ -5,7 +5,6 @@
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Acessar-Live%20Demo-brightgreen?style=for-the-badge&logo=googlechrome)](https://barbershop-web-gwbhheaaf0cfewgm.centralus-01.azurewebsites.net)
-[![API Status](https://img.shields.io/badge/Backend%20API-Online-blue?style=for-the-badge&logo=azure)](https://barbershop-api-hmbsh7b0cugdbabd.centralus-01.azurewebsites.net/swagger)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 [![Blazor WASM](https://img.shields.io/badge/Blazor-WebAssembly-512BD4?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![MudBlazor](https://img.shields.io/badge/UI-MudBlazor%209.11-7E57C2?style=for-the-badge)](https://mudblazor.com/)
@@ -20,8 +19,7 @@
 
 A aplicação está hospedada e ativa no Microsoft Azure:
 
-- **🚀 Acessar Sistema (Frontend)**: [https://barbershop-web-gwbhheaaf0cfewgm.centralus-01.azurewebsites.net](https://barbershop-web-gwbhheaaf0cfewgm.centralus-01.azurewebsites.net)
-- **⚙️ Documentação da API (Swagger)**: [https://barbershop-api-hmbsh7b0cugdbabd.centralus-01.azurewebsites.net/swagger](https://barbershop-api-hmbsh7b0cugdbabd.centralus-01.azurewebsites.net/swagger)
+- **🚀 Acessar Sistema**: [https://barbershop-web-gwbhheaaf0cfewgm.centralus-01.azurewebsites.net](https://barbershop-web-gwbhheaaf0cfewgm.centralus-01.azurewebsites.net)
 
 ---
 
@@ -127,5 +125,5 @@ graph TD
 Desenvolvido por **Maycon Douglas**.
 
 - **GitHub**: [@maycondgl](https://github.com/maycondgl)
-- **LinkedIn**: [linkedin.com/in/maycon-douglas-leite](https://www.linkedin.com/in/maycondgl)
+- **LinkedIn**: [linkedin.com/in/maycon-douglas-leite](https://www.linkedin.com/in/maycon-douglas-leite)
 - **E-mail**: [maycon.dsl@hotmail.com](mailto:maycon.dsl@hotmail.com)
